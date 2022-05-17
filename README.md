@@ -1,7 +1,7 @@
 # Cell Image Analysis via Machine Learning
 __Carlos Leon__
 
-
+## Elevator Pitch
 This project builds a machine learning model to recognize each cell on a sample photograph ("cell segmentation") to help hematologists' analysis.
 
 ## Introduction
